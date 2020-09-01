@@ -1,4 +1,4 @@
-# Invid
+## Invid
 ### An iOS app for Invidious, the privacy-focused (and discontinued) front-end to YouTube
 
 Invid uses the Invidious API to fetch and play videos. You can use the share sheet extension to open compatible video URLs. The app also scans for compatible URLs in your pasteboard. There is an optional in-app web view for browsing videos.
