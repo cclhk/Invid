@@ -34,6 +34,6 @@ While the official Invidious instance is shutting down on September 1st, you can
 
 [https://github.com/cclhk/Invid/releases/download/v0.1/Invid.v0.1.ipa](https://github.com/cclhk/Invid/releases/download/v0.1/Invid.v0.1.ipa)
 
-Use [Xcode and iOS App Signer](https://old.reddit.com/r/jailbreak/wiki/xcodeiosappsigner) (macOS), or [AltStore](https://old.reddit.com/r/jailbreak/wiki/altstore) (Windows & macOS) to install
+Use [Xcode and iOS App Signer](https://old.reddit.com/r/jailbreak/wiki/xcodeiosappsigner) (macOS), or [AltStore](https://old.reddit.com/r/jailbreak/wiki/altstore) (Windows & macOS) to install.
 ___
 If you like the app, consider contributing to [Invidious](https://github.com/iv-org/invidious), standing with [Hong Kong](https://standwithhk.org), or joining [#BoycottMulan](https://www.nytimes.com/2019/08/16/world/asia/boycott-mulan.html).
