@@ -1,4 +1,4 @@
-**Invid** is an iOS app for [Invidious](https://github.com/iv-org/invidious), a privacy-focused (and discontinued) front-end to YouTube
+Invid is an iOS app for [Invidious](https://github.com/iv-org/invidious), a privacy-focused (and discontinued) front-end to YouTube.
 
 Invid uses the Invidious API to fetch and play videos. You can use the share sheet extension to open compatible video URLs. The app also scans for compatible URLs in your pasteboard. There is an optional in-app web view for browsing videos.
 
@@ -25,6 +25,7 @@ While the official Invidious instance is shutting down on September 1st, you can
 
 **Not supported**
 
+- iOS 11 and below
 -	iPad
 -	playlists
 -	timestamps
