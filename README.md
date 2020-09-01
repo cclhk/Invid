@@ -32,7 +32,7 @@ While the official Invidious instance is shutting down on September 1st, you can
 
 **Download**
 
-[https://github.com/cclhk/Invid/releases/download/v0.1.1/Invid.v0.1.1.ipa](https://github.com/cclhk/Invid/releases/download/v0.1/Invid.v0.1.ipa)
+[https://github.com/cclhk/Invid/releases/download/v0.1.1/Invid.v0.1.1.ipa](https://github.com/cclhk/Invid/releases/download/v0.1.1/Invid.v0.1.1.ipa)
 
 Use [Xcode and iOS App Signer](https://old.reddit.com/r/jailbreak/wiki/xcodeiosappsigner) (macOS), or [AltStore](https://old.reddit.com/r/jailbreak/wiki/altstore) (Windows & macOS) to install.
 ___
