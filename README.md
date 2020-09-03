@@ -25,7 +25,7 @@ The official Invidious instance has closed down on September 1st, but you can sw
 -	buggy Airplay
 -   subtitles disappear after resuming from background on iOS 13 (switch video resolution then they reappear)
 -   cannot switch / turn off subtitles with default subtitles enabled
--   share sheet extension not appearing as an option when long pressing a URL
+-   extension not appearing in the share sheet when long pressing a URL
 
 **Not supported**
 
