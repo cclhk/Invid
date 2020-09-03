@@ -2,7 +2,7 @@ Invid is an iOS app for [Invidious](https://github.com/iv-org/invidious), a priv
 
 Invid uses the Invidious API to fetch and play videos. You can use the share sheet extension to open compatible video URLs. The app also scans for compatible URLs in your pasteboard. There is an optional in-app web view for browsing videos.
 
-This app was a personal learning project intended for personal use, so the UI is quite bland. Development is now stopped due to [the unclear future of Invidious](https://github.com/iv-org/invidious/issues/1320). I'm releasing this to get some sense of accomplishment during the pandemic. No updates are promised.
+This app was a personal learning project intended for personal use, so the UI is quite bland. Development is now stopped due to [the unclear future of Invidious](https://github.com/iv-org/invidious/issues/1320). I'm releasing this to get some sense of accomplishment during Covid. No updates are promised.
 
 While the official Invidious instance is shutting down on September 1st, you can switch to [other public instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) so the app should continue to work until breaking changes are made to YouTube.
 
@@ -19,9 +19,10 @@ While the official Invidious instance is shutting down on September 1st, you can
 -	playback rate adjustment at 0.05x intervals
 -	double tab and hold to forward / back 15 seconds
 
-**Buggy**
+**Known bugs**
 
--	Airplay
+-	Buggy Airplay
+- Subtitles disappear after resuming from background (switch video resolution then they reappear)
 
 **Not supported**
 
@@ -32,8 +33,8 @@ While the official Invidious instance is shutting down on September 1st, you can
 
 **Download**
 
-[https://github.com/cclhk/Invid/releases/download/v0.1.1/Invid.v0.1.1.ipa](https://github.com/cclhk/Invid/releases/download/v0.1.1/Invid.v0.1.1.ipa)
+[https://github.com/cclhk/Invid/releases/download/v0.1.2/Invid.v0.1.2.ipa](https://github.com/cclhk/Invid/releases/download/v0.1.2/Invid.v0.1.2.ipa)
 
 Use [Xcode and iOS App Signer](https://old.reddit.com/r/jailbreak/wiki/xcodeiosappsigner) (macOS), or [AltStore](https://old.reddit.com/r/jailbreak/wiki/altstore) (Windows & macOS) to install.
 ___
-If you like the app, consider contributing to [Invidious](https://github.com/iv-org/invidious), standing with [Hong Kong](https://standwithhk.org), or joining [#BoycottMulan](https://www.nytimes.com/2019/08/16/world/asia/boycott-mulan.html).
+If you like the app, consider contributing to [Invidious](https://github.com/iv-org/invidious), standing with [Hong Kong](https://twitter.com/ProtonVPN/status/1301064825053818887), or joining [#BoycottMulan](https://www.nytimes.com/2019/08/16/world/asia/boycott-mulan.html).
