@@ -9,9 +9,9 @@ The official Invidious instance has closed down on September 1st, but you can sw
 **Features**
 
 -	based on stock video player (AVPlayerViewController)
-  - long press for playback rate (@ 0.05x intervals) and resolution adjustments
-  -	double tab and hold to forward / back 15 seconds
-  -	Smart Rotate - watch videos in landscape regardless of Portrait Orientation Lock
+    - long press for playback rate (@ 0.05x intervals) and resolution adjustments
+    -	double tab and hold to forward / back 15 seconds
+    -	Smart Rotate - watch videos in landscape regardless of Portrait Orientation Lock
 -	no ads and data collection
 -	background playback
 -	stream audio track only
