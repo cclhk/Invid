@@ -4,25 +4,27 @@ Invid uses the Invidious API to fetch and play videos. You can use the share she
 
 This app was a personal learning project intended for personal use, so the UI is quite bland. Development is now stopped due to [the unclear future of Invidious](https://github.com/iv-org/invidious/issues/1320). I'm releasing this to get some sense of accomplishment during Covid. No updates are promised.
 
-While the official Invidious instance is shutting down on September 1st, you can switch to [other public instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) so the app should continue to work until breaking changes are made to YouTube.
+The official Invidious instance has closed down on September 1st, but you can switch to [other public instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) so the app should continue to work until breaking changes are made to YouTube.
 
 **Features**
 
 -	based on stock video player (AVPlayerViewController)
+  - long press for playback rate (@ 0.05x intervals) and resolution adjustments
+  -	double tab and hold to forward / back 15 seconds
+  -	Smart Rotate - watch videos in landscape regardless of Portrait Orientation Lock
 -	no ads and data collection
--	Smart Rotate - watch videos in landscape regardless of Portrait Orientation Lock
 -	background playback
 -	stream audio track only
 -	default resolution (up to 1080p) for cellular, VPN, and Wi-Fi
 -	default subtitle languages
 -	disable high frame rate content
--	playback rate adjustment at 0.05x intervals
--	double tab and hold to forward / back 15 seconds
+
 
 **Known bugs**
 
--	Buggy Airplay
-- Subtitles disappear after resuming from background (switch video resolution then they reappear)
+-	buggy Airplay
+- subtitles disappear after resuming from background (switch video resolution then they reappear)
+- share sheet extension not appearing as an option when long pressing a URL
 
 **Not supported**
 
