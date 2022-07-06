@@ -1,4 +1,6 @@
-Invid is an iOS app for [Invidious](https://github.com/iv-org/invidious), a privacy-focused (and discontinued) front-end to YouTube.
+[This shorcut](https://www.reddit.com/r/shortcuts/comments/vr7mdi/tubey_watch_youtube_in_1080p60_with_pip_no_ads/) offers some of the same functionalities of this now totally broken app.
+___
+<s>Invid is an iOS app for [Invidious](https://github.com/iv-org/invidious), a privacy-focused (and discontinued) front-end to YouTube.
 
 Invid uses the Invidious API to fetch and play videos. You can use the share sheet extension to open compatible video URLs. The app also scans for compatible URLs in your pasteboard. There is an optional in-app web view for browsing videos.
 
@@ -40,4 +42,4 @@ The official Invidious instance has closed down on September 1st, but you can sw
 
 Use [Xcode and iOS App Signer](https://old.reddit.com/r/jailbreak/wiki/xcodeiosappsigner) (macOS), or [AltStore](https://old.reddit.com/r/jailbreak/wiki/altstore) (Windows & macOS) to install.
 ___
-If you like the app, consider contributing to [Invidious](https://github.com/iv-org/invidious), learning more about [freedom in Hong Kong](https://twitter.com/ProtonVPN/status/1301064825053818887), or reading up on [#BoycottMulan](https://www.nytimes.com/2019/08/16/world/asia/boycott-mulan.html).
+If you like the app, consider contributing to [Invidious](https://github.com/iv-org/invidious), learning more about [freedom in Hong Kong](https://twitter.com/ProtonVPN/status/1301064825053818887), or reading up on [#BoycottMulan](https://www.nytimes.com/2019/08/16/world/asia/boycott-mulan.html).</s>
